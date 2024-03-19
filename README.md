@@ -1,8 +1,6 @@
 # SPH_FEM_2D_cutting_gpu
 
-#######################################################
-###This project is not available for public release.###
-#######################################################
+## This project is not available for public release.###
 
 ## Description
 - This project is an extension based on the previous SPH modeling of metal cutting process (Metal Cutting Simulations using Smoothed Particle Hydrodynamics on the GPU to published in the Journal of Advanced Manufacturing Technology (JAMT) by Röthlin et al.).
