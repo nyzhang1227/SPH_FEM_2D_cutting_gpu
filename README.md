@@ -21,7 +21,7 @@
 
 
 
- <img src="./Figure/strain_example.png" alt="Equivalent plastic strain in Ti6Al4V and AISI 1045 cutting" width="669" height="477">
+ <img src="./Figure/strain_example.png" alt="Equivalent plastic strain in Ti6Al4V and AISI 1045 cutting" width="573" height="408">
 </p>
 
 ## Related publications
