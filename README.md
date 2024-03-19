@@ -1,6 +1,6 @@
 # SPH_FEM_2D_cutting_gpu
 
-## This project is not available for public release.###
+## This project is not available for public release.
 
 ## Description
 - This project is an extension based on the previous SPH modeling of metal cutting process (Metal Cutting Simulations using Smoothed Particle Hydrodynamics on the GPU to published in the Journal of Advanced Manufacturing Technology (JAMT) by Röthlin et al.).
@@ -16,7 +16,9 @@
 - **Tool Wear Modeling**: Includes models for tool wear, offering insights into tool life and performance during cutting.
 - **Flexible Input and Output**: Supports customizable input parameters for simulation scenarios and outputs data in formats compatible with visualization tools (e.g., VTK).
 
- <img src="./Figure/temperature_example.png" alt="Example Image" width="598" height="281">
+ <img src="./Figure/temperature_example.png" alt="Temperature field in Ti6Al4V cutting" width="598" height="281">
+
+ <img src="./Figure/strain_example.png" alt="Equivalent plastic strain in Ti6Al4V and AISI 1045 cutting" width="669" height="477">
 
 
 ## Related publications
