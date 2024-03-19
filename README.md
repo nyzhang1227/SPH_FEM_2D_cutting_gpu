@@ -19,11 +19,13 @@
 ## Example
 <p align="center">
  Temperature field in Ti6Al4V cutting
+ 
  <img src="./Figure/temperature_example.png" alt="Temperature field in Ti6Al4V cutting" width="598" height="281">
 
 
 
  Equivalent plastic strain in Ti6Al4V and AISI 1045 cutting compared with experimental results
+ 
  <img src="./Figure/strain_example.png" alt="Equivalent plastic strain in Ti6Al4V and AISI 1045 cutting" width="573" height="408">
 </p>
 
