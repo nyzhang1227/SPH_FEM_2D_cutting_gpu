@@ -16,7 +16,7 @@
 - **Tool Wear Modeling**: Includes models for tool wear, offering insights into tool life and performance during cutting.
 - **Flexible Input and Output**: Supports customizable input parameters for simulation scenarios and outputs data in formats compatible with visualization tools (e.g., VTK).
 
- <img src="./Figure/temperature_example.png" alt="Example Image" width="897/2" height="422/2">
+ <img src="./Figure/temperature_example.png" alt="Example Image" width="598" height="281">
 
 
 ## Related publications
