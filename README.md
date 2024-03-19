@@ -15,6 +15,8 @@
 - **Thermaomechanical Analysis**: Provides the thermomechanical results including temperature, process forces, residual stresses and so on, which is critical for understanding the cutting process in metals.
 - **Tool Wear Modeling**: Includes models for tool wear, offering insights into tool life and performance during cutting.
 - **Flexible Input and Output**: Supports customizable input parameters for simulation scenarios and outputs data in formats compatible with visualization tools (e.g., VTK).
+
+ <img src="./Figure/temperature_example.png" alt="Example Image" width="400" height="300">
 ![Temperature field in Ti6Al4V cutting](./Figure/temperature_example.png)
 
 ## Related publications
