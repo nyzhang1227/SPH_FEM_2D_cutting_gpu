@@ -5,10 +5,11 @@
 #######################################################
 
 ## Description
-- **This project is an extension based on the previous SPH modeling of metal cutting process (Metal Cutting Simulations using Smoothed Particle Hydrodynamics on the GPU to published in the Journal of Advanced Manufacturing Technology (JAMT) by Röthlin et al.).
+- This project is an extension based on the previous SPH modeling of metal cutting process (Metal Cutting Simulations using Smoothed Particle Hydrodynamics on the GPU to published in the Journal of Advanced Manufacturing Technology (JAMT) by Röthlin et al.).
 - The dependencies of the project include GLM and Gmsh.
 
-- **The hybrid model replaces the particle tool with finite element mesh based tool, which aims at improving the computational efficiency for high resolution cutting simulations.
+- The hybrid model replaces the particle tool with finite element mesh based tool, which aims at improving the computational efficiency for high resolution cutting simulations.
+
 
 
 ## Features
@@ -18,5 +19,6 @@
 - **Flexible Input and Output**: Supports customizable input parameters for simulation scenarios and outputs data in formats compatible with visualization tools (e.g., VTK).
 
 ## Related publications
-- **Hybrid SPH-FEM solver for metal cutting simulations on the GPU including thermal contact modeling, CIRP Journal of Manufacturing Science and Technology, Volume 41, April 2023, Pages 311-327, doi: https://doi.org/10.1016/j.cirpj.2022.12.012
-- **Study on the effect of wear models in tool wear simulation using hybrid SPH-FEM method, Procedia CIRP, Volume 117, 2023, Pages 414-419, doi: https://doi.org/10.1016/j.procir.2023.03.070
+- [Hybrid SPH-FEM solver for metal cutting simulations on the GPU including thermal contact modeling](https://doi.org/10.1016/j.cirpj.2022.12.012), CIRP Journal of Manufacturing Science and Technology, Volume 41, April 2023, Pages 311-327 
+- [Study on the effect of wear models in tool wear simulation using hybrid SPH-FEM method](https://doi.org/10.1016/j.procir.2023.03.070), Procedia CIRP, Volume 117, 2023, Pages 414-419
+
