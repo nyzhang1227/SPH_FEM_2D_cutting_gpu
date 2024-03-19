@@ -11,8 +11,8 @@
 
 
 ## Features
-- **GPU-Accelerated Computation**: Leverages CUDA to significantly speed up the simulation process, making it suitable for large-scale simulations.
 - **Thermomechanical Analysis**: Provides the thermomechanical results including temperature, process forces, residual stresses and so on, which is critical for understanding the cutting process in metals.
+- **GPU-Accelerated Computation**: Utilizes CUDA to significantly speed up the simulation process, making it suitable for large-scale simulations.
 - **Tool Wear Modeling**: Includes models for tool wear, offering insights into tool life and performance during cutting.
 - **Flexible Input and Output**: Supports customizable input parameters for simulation scenarios and outputs data in formats compatible with visualization tools (e.g., VTK).
 
